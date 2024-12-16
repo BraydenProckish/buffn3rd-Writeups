@@ -1,4 +1,4 @@
-# **OpTInselTrace-3**
+# **OpTInselTrace-3 Writeup**
 ![image](https://github.com/user-attachments/assets/934d3c1d-c7fb-46ff-9aff-d735cdb3aa4e)
 
 Oh no! Our IT admin is a bit of a cotton-headed ninny-muggins, ByteSparkle left his VPN configuration file in our fancy private S3 location! The nasty attackers may have gained access to our internal network. We think they compromised one of our TinkerTech workstations. Our security team has managed to grab you a memory dump - please analyse it and answer the questions! Santa is waiting… Please note - these Sherlocks are built to be completed sequentially and in order!
